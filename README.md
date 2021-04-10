@@ -1,5 +1,7 @@
 # Nyeogmi Manor 
 
+![Nyeogmi Manor](Screenshots/Overhead_View.png)
+
 ## Server
 Currently hosted at `krutonium.ga` (whitelisted). Schematic will become available soonish.
 
