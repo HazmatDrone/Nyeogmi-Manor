@@ -1,8 +1,8 @@
 ## Overhead View
-![Overhead View](Screenshots/Overhead_View.png)
+![Overhead View](Overhead_View.png)
 ## Front View
-![Front View](Screenshots/Front_View.png)
+![Front View](Front_View.png)
 ## Courtyard
-![Courtyard](Screenshots/Courtyard.png)
+![Courtyard](Courtyard.png)
 ## Courtyard Overhead
-![Courtyard Overhead](Screenshots/Courtyard_Overhead.png)
+![Courtyard Overhead](Courtyard_Overhead.png)
