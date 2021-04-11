@@ -12,6 +12,7 @@ See [Floorplan](floorplan).
 ![Nyeogmi Manor -1F](Floorplan/Nyeogmi_Manor_-1F.png)
 1. Gaol
 2. Cellar
+---
 ### 0F (Ground Floor)
 ![Nyeogmi Manor 0F](Floorplan/Nyeogmi_Manor_0F.png)
 1. Main Entry
@@ -28,6 +29,7 @@ See [Floorplan](floorplan).
 12. Armory
 13. Smithy
 14. Private Study
+---
 ### 1F
 ![Nyeogmi Manor 1F](Floorplan/Nyeogmi_Manor_1F.png)
 1. Canopy
@@ -38,11 +40,14 @@ See [Floorplan](floorplan).
 6. Bedroom 2
 7. Bedroom 3
 8. Gallery
+---
 ### 2F
 ![Nyeogmi Manor 2F](Floorplan/Nyeogmi_Manor_2F.png)
 1. Roost. (Provide unlit crawl-space, suitable for vampires. Ideally this should be accessible from the main bedroom while avoiding sunlight)
+---
 ### 3F
 ![Nyeogmi Manor 3F](Floorplan/Nyeogmi_Manor_3F.png)
+---
 ### Front Tower
 Library - 3 floors (0-2)
 ### Rear Tower
