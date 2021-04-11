@@ -11,8 +11,7 @@ See [Floorplan](floorplan).
 ### -1F
 ![Nyeogmi Manor -1F](Floorplan/Nyeogmi_Manor_-1F.png)
 1. Gaol
-2. Secret Area A *TBD*
-3. Secret Area B *TBD*
+2. Cellar
 ### 0F (Ground Floor)
 ![Nyeogmi Manor 0F](Floorplan/Nyeogmi_Manor_0F.png)
 1. Main Entry
@@ -23,24 +22,28 @@ See [Floorplan](floorplan).
 6. Dining entry
 7. Lounge (Contains a bulletin board for thrall orders)
 8. Dining
-9. Kitchen/pantry
-10. Public study 2
-11. Smithy
+9. Kitchen
+10. pantry
+11. Public study 2
 12. Armory
-13. Watch station
+13. Smithy
+14. Private Study
 ### 1F
 ![Nyeogmi Manor 1F](Floorplan/Nyeogmi_Manor_1F.png)
 1. Canopy
 2. ? (Can this be converted to bedroom space? Perhaps consider a low-light connection from the R. Tower to the lounge.)
 3. Lounge, upper level/mezzanine. (Consider a staircase connecting them?)
-4. Upstairs dormitory. (Maybe see if you can jam two small bedrooms in here, a bathroom in each?)
-5. Gallery
+4. Upstairs dormitory
+5. Bedroom 1
+6. Bedroom 2
+7. Bedroom 3
+8. Gallery
 ### 2F
 ![Nyeogmi Manor 2F](Floorplan/Nyeogmi_Manor_2F.png)
 1. Roost. (Provide unlit crawl-space, suitable for vampires. Ideally this should be accessible from the main bedroom while avoiding sunlight)
 ### 3F
 ![Nyeogmi Manor 3F](Floorplan/Nyeogmi_Manor_3F.png)
 ### Front Tower
-*TBD*
+Library - 3 floors (0-2)
 ### Rear Tower
-*TBD*
+Nyeogmi Tower - 4 floors (0-3)
