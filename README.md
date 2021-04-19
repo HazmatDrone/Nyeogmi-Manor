@@ -6,7 +6,7 @@
 Available [here](https://github.com/HazmatDrone/Nyeogmi-Manor/releases).
 
 ## Floorplan
-See [Floorplan](floorplan).
+See [Floorplan](Floorplan).
 `Nyeogmi_Manor.ds` can be loaded with [Dungeon Scrawler](https://probabletrain.itch.io/dungeon-scrawl) for editing.
 ### -1F
 ![Nyeogmi Manor -1F](Floorplan/Nyeogmi_Manor_-1F.png)
