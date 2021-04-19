@@ -2,8 +2,8 @@
 
 ![Nyeogmi Manor](Screenshots/Overhead_View.png)
 
-## Server
-Currently hosted at `krutonium.ga` (whitelisted). Schematic will become available soonish.
+## Download
+Available [here](https://github.com/HazmatDrone/Nyeogmi-Manor/releases).
 
 ## Floorplan
 See [Floorplan](floorplan).
